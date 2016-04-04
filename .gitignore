@@ -1,3 +1,6 @@
+# My own additions
+*.pdf
+
 # Object files
 *.o
 *.ko
