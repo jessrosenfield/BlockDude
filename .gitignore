@@ -1,5 +1,6 @@
 # My own additions
 *.pdf
+*.d
 
 # Object files
 *.o
